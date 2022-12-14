@@ -11,8 +11,8 @@ import thumbSAUI from '../public/images/sa_ui.jpg'
 
 const Works = () => {
   return (
-      <Container>
     <Layout>
+      <Container>
         <Heading as="h3" fontSize={20} mb={4}>
           Works
         </Heading>
@@ -56,8 +56,8 @@ const Works = () => {
             </WorkGridItem>
           </Section>
         </SimpleGrid>
-    </Layout>
       </Container>
+    </Layout>
   )
 }
 export default Works
