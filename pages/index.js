@@ -14,7 +14,7 @@ import {
 import NextLink from 'next/link'
 import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub } from 'react-icons/io5'
 import { BioSection, BioYear } from '../components/bio'
-import { GridItem } from '../components/grid-item'
+import { GridItem } from '../components/grid_item'
 import Layout from '../components/layouts/article'
 import Paragraph from '../components/paragraph'
 import Section from '../components/section'
